@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hes Code Installer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">HES KODU UYGULAMASINI INDIR</string>
+    <string name="youtube">YouTube</string>
+    <string name="admob_app_id">ca-app-pub-2313560120112536~4200665939</string>
+    <string name="admob_intersitiade_ad_id">ca-app-pub-2313560120112536/4400810631</string>
+
+    <string name="hello_first_fragment"> Hes Kodu uygulamamız Hayat Eve Sığar Uygulamasının Aksine \n sizlere 10 saniyede HES Kodu almayı vaad ediyor.
+        \n Bu uygulama gerçek uygulamanın kendisi değildir.
+        \n Uygulama HES KODU almak için 2023\'e SMS gönderdiği için, \n Google tarafından yayına alınmadı. \n
+                 Gerçek uygulamayı İndir Butonuna tıklayarak indirebilir, \n YouTube  butonuna tıklayarak da nasıl çalıştığını izleyebilirsiniz. \n
+                 Soru ve sorunlarınız için sağ alttaki butona tıklayarak, \n mail yoluyla  iletişime geçebilirsiniz.</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
